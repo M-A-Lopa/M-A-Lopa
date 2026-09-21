@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🎓 CS student — currently taking on coursework in **algorithms, databases, software design, and machine learning**
+- 🎓 CS student — currently learning **algorithms, machine learning and deep learning**
 - 🔬 Interested in **deep learning, computer vision, graph neural networks, and split/federated learning**
 - 🛠️ Comfortable across the stack: **Python, Java, SQL, and C/C++**
 - 🌱 Currently exploring **multimodal models (BERT + GNN)** and **adversarial robustness in split learning**
