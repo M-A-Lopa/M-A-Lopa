@@ -49,17 +49,17 @@
 ---
 
 ### 🚀 Featured Projects
-<p align="center"><em>Thanks for stopping by — feel free to explore the repos above!</em></p>
+<p align="center"><em>Thanks for stopping by — feel free to explore the repos below!</em></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎵 <a href="https://github.com/M-A-Lopa/GNN-BERT-Music-Context">GNN-BERT-Music-Context</a></h4>
-      Hybrid BERT + GNN system for music context understanding — tagging, emotion regression, and cross-modal retrieval.
-    </td>
-    <td width="50%" valign="top">
       <h4>🧬 <a href="https://github.com/M-A-Lopa/Adaptive-Adversaries-in-Split-Learning-Across-Heterogeneous-Devices">Adaptive Adversaries in Split Learning</a></h4>
       Studying adversarial robustness in split learning across heterogeneous devices.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎵 <a href="https://github.com/M-A-Lopa/GNN-BERT-Music-Context">GNN-BERT-Music-Context</a></h4>
+      Hybrid BERT + GNN system for music context understanding — tagging, emotion regression, and cross-modal retrieval.
     </td>
   </tr>
   <tr>
