@@ -49,6 +49,7 @@
 ---
 
 ### 🚀 Featured Projects
+<p align="center"><em>Thanks for stopping by — feel free to explore the repos above!</em></p>
 
 <table>
   <tr>
@@ -120,7 +121,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center"><em>Thanks for stopping by — feel free to explore the repos above!</em></p>
